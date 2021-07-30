@@ -1,5 +1,5 @@
 name: "Hello Actions"
-description: "Greet everyone"
+description: "Greet everyone in morning"
 author: "octocat@github.com"
 
 inputs:
